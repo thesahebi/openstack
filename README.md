@@ -1,2 +1,2 @@
-# openstack-whmcs
-Openstack VPS Plugin For WHMCS
+# OpenStack-whmcs
+OpenStack VPS Plugin For WHMCS
