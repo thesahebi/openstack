@@ -1,0 +1,21 @@
+.create_vm {text-align: right; margin-bottom: 8px;}
+.os_vm_status {text-align:center !important;}
+.os_vm_actions {width:190px;text-align:center !important;}
+
+#vm-table .left {float: left;width: 200px;left: 0;top: 0;}
+
+button.btn img {margin-right: 2px;}
+#vm-table .right {float: none;margin-left: 220px;}
+
+#vm_alerts .box-success, #vm_alerts .box-error {padding:5px;margin-bottom:10px;}
+#vm_alerts .box-success {background-color: #DFF0D8;}
+#vm_alerts .box-error {background-color: #F2DEDE;}
+
+.os_slider {margin:10px 5px;}
+.rebuild input[type=text], .rebuild select {width:300px;}
+.flavor_value {font-weight:bold;}
+.green {font-weight:bold;color:green;}
+.red {font-weight:bold;color:red}
+#serverstats { padding-bottom: 20px; }
+#rbuttons,#nbuttons { padding-bottom: 20px; text-align: center; }
+#rbuttons .btn,#nbuttons .btn {margin:5px;width:30%;}
